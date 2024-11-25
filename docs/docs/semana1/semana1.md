@@ -4,6 +4,23 @@ sidebar_position: 1
 
 # Semana 1
 
+## Apresentação
+
+<div style={{ textAlign: 'center' }}>
+<iframe style={{
+            display: 'block',
+            margin: 'auto',
+            width: '100%',
+            height: '50vh',
+        }} 
+        loading="lazy"
+        src="https://www.canva.com/design/DAGXMnhmP2U/XAjldpkfc4O_I6Nik1tp0A/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"
+        frameborder="0">
+  </iframe>
+
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGXMnhmP2U&#x2F;XAjldpkfc4O_I6Nik1tp0A&#x2F;view?utm_content=DAGXMnhmP2U&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Apresentação individual</a>
+
 ## Mapeamento do Problema, Pesquisa Exploratória e Conceito Inicial
 
 ### Projeto: Gastronômico
